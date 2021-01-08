@@ -1,4 +1,4 @@
-const KEY = "AIzaSyBL4UQvOA_PiUgUbOt5Pr2wUD3OZ0-tf7c";
+const KEY = "your key";
 
 
 export default KEY;
